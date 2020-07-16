@@ -70,6 +70,11 @@ namespace _70_Delegate
             op33?.Invoke(3, 4);
             op33 = Sub2;
             Console.WriteLine(op33?.Invoke(3, 4));
+            Operation2 op4 = delegate (double x, double y)
+            { 
+                return x* y+x; 
+            };
+            Console.WriteLine(op4?.Invoke(4,7));
         }
     }
 }
