@@ -33,9 +33,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test", "Test\Test.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "60 Generics", "60Generics\60 Generics.csproj", "{4A1A9590-4687-4363-8979-EDE86B7EC3DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30 Vererbung", "30 Vererbung\30 Vererbung.csproj", "{A2988A14-5EEB-418C-A483-345625239389}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "30 Vererbung", "30 Vererbung\30 Vererbung.csproj", "{A2988A14-5EEB-418C-A483-345625239389}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "70 Delegate", "70 Delegate\70 Delegate.csproj", "{89B498DE-4474-4902-B003-A8E5DFDE7041}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "70 Delegate", "70 Delegate\70 Delegate.csproj", "{89B498DE-4474-4902-B003-A8E5DFDE7041}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "90 Binaerer Baum", "90 Binaerer Baum\90 Binaerer Baum.csproj", "{4039D83A-6F71-4EF8-98BA-AB706A38B412}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{89B498DE-4474-4902-B003-A8E5DFDE7041}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89B498DE-4474-4902-B003-A8E5DFDE7041}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89B498DE-4474-4902-B003-A8E5DFDE7041}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4039D83A-6F71-4EF8-98BA-AB706A38B412}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4039D83A-6F71-4EF8-98BA-AB706A38B412}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4039D83A-6F71-4EF8-98BA-AB706A38B412}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4039D83A-6F71-4EF8-98BA-AB706A38B412}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
