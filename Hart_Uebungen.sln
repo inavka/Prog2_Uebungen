@@ -39,7 +39,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "70 Delegate", "70 Delegate\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "90 Binaerer Baum", "90 Binaerer Baum\90 Binaerer Baum.csproj", "{4039D83A-6F71-4EF8-98BA-AB706A38B412}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "71 Delegates", "71 Delegates\71 Delegates.csproj", "{31A94550-61B7-432E-A95D-FB29277DF393}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "71 Delegates", "71 Delegates\71 Delegates.csproj", "{31A94550-61B7-432E-A95D-FB29277DF393}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26 Verkettete Liste", "25 Verkettete Liste\26 Verkettete Liste.csproj", "{73A28F40-0148-48EB-AFB5-4FDB6CE020E3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +125,10 @@ Global
 		{31A94550-61B7-432E-A95D-FB29277DF393}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31A94550-61B7-432E-A95D-FB29277DF393}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31A94550-61B7-432E-A95D-FB29277DF393}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73A28F40-0148-48EB-AFB5-4FDB6CE020E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73A28F40-0148-48EB-AFB5-4FDB6CE020E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73A28F40-0148-48EB-AFB5-4FDB6CE020E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73A28F40-0148-48EB-AFB5-4FDB6CE020E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
