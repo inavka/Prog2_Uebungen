@@ -5,43 +5,43 @@ VisualStudioVersion = 16.0.29926.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hart_Uebungen", "Hart_Uebungen\Hart_Uebungen.csproj", "{046BA6EE-3E30-4210-8016-796B76ED8AFE}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01 Indexer", "01 Mathematischer Vektor\01 Indexer.csproj", "{39B7F583-DA07-4E27-8C9D-76B0F14D9A5D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01 Indexer, Vector", "01 Mathematischer Vektor\01 Indexer, Vector.csproj", "{39B7F583-DA07-4E27-8C9D-76B0F14D9A5D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02 Indexer", "02 Indexer\02 Indexer.csproj", "{EFD4B779-C9E7-49E3-92CC-AA67CF89E2E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02 Indexer, Temperatur", "02 Indexer\02 Indexer, Temperatur.csproj", "{EFD4B779-C9E7-49E3-92CC-AA67CF89E2E2}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11 Operatoren", "11 Operatoren\11 Operatoren.csproj", "{A4F049E9-F919-4E6E-ADFB-74C2AF910CB1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11 Operatoren, Vector_weiter", "11 Operatoren\11 Operatoren, Vector_weiter.csproj", "{A4F049E9-F919-4E6E-ADFB-74C2AF910CB1}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12 Operatoren", "12 Operatoren\12 Operatoren.csproj", "{060DD2AC-3FDE-425C-938C-E8463DB89882}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12 Operatoren, CPoint", "12 Operatoren\12 Operatoren, CPoint.csproj", "{060DD2AC-3FDE-425C-938C-E8463DB89882}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20 Verkettete Liste", "31 A5_Verkettete Liste\20 Verkettete Liste.csproj", "{700BF068-450D-49AA-939F-D08D1BD31C38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20 Verkettete Liste, VORLAGE", "31 A5_Verkettete Liste\20 Verkettete Liste, VORLAGE.csproj", "{700BF068-450D-49AA-939F-D08D1BD31C38}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13 Operatoren", "13 A6_Operatoren überladen\13 Operatoren.csproj", "{1C521880-7F0C-4D2B-A40F-22CE9B621072}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13 Operatoren, TimeSpan", "13 A6_Operatoren überladen\13 Operatoren, TimeSpan.csproj", "{1C521880-7F0C-4D2B-A40F-22CE9B621072}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "21 Verkettete Liste", "21 Verkettete Liste\21 Verkettete Liste.csproj", "{78B4DFC7-6436-47F9-8401-4A40C0EDCA32}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "21 Verkettete Liste, Seminarbuchung", "21 Verkettete Liste\21 Verkettete Liste, Seminarbuchung.csproj", "{78B4DFC7-6436-47F9-8401-4A40C0EDCA32}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "22 Verkettete Liste", "22 Verkettete Liste\22 Verkettete Liste.csproj", "{CC71E4F6-456B-4140-AB81-8BB8893D8F79}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "22 Verkettete Liste, STACK", "22 Verkettete Liste\22 Verkettete Liste, STACK.csproj", "{CC71E4F6-456B-4140-AB81-8BB8893D8F79}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "23 Verkettete Liste", "23 Verkettete Liste\23 Verkettete Liste.csproj", "{6DF511CE-49E4-4DF4-BAA3-05379455FD00}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "23 Verkettete Liste, QUEUE", "23 Verkettete Liste\23 Verkettete Liste, QUEUE.csproj", "{6DF511CE-49E4-4DF4-BAA3-05379455FD00}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "25 Zyklische Liste + Queue", "30 Zyklische Liste\25 Zyklische Liste + Queue.csproj", "{167528D2-70A2-408C-BE38-627272233E18}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProbeKlausur", "ProbeKlausur\ProbeKlausur.csproj", "{1B0120DC-3D8F-4186-84FB-63C09EB4BC28}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "24 Verkettete Liste", "24 Verkettete Liste\24 Verkettete Liste.csproj", "{51D78B6F-3FED-429D-85A5-E8BB33646EE6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "24 Verkettete Liste, Post, Indexer", "24 Verkettete Liste\24 Verkettete Liste, Post, Indexer.csproj", "{51D78B6F-3FED-429D-85A5-E8BB33646EE6}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test", "Test\Test.csproj", "{8A2CD361-C56D-48A2-9DF4-5088D72E5D80}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "60 Generics", "60Generics\60 Generics.csproj", "{4A1A9590-4687-4363-8979-EDE86B7EC3DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "60 Generics, Liste_Vorlage", "60Generics\60 Generics, Liste_Vorlage.csproj", "{4A1A9590-4687-4363-8979-EDE86B7EC3DE}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "30 Vererbung", "30 Vererbung\30 Vererbung.csproj", "{A2988A14-5EEB-418C-A483-345625239389}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "30 Vererbung, Spiele", "30 Vererbung\30 Vererbung, Spiele.csproj", "{A2988A14-5EEB-418C-A483-345625239389}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "70 Delegate", "70 Delegate\70 Delegate.csproj", "{89B498DE-4474-4902-B003-A8E5DFDE7041}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "70 Delegate, Test", "70 Delegate\70 Delegate, Test.csproj", "{89B498DE-4474-4902-B003-A8E5DFDE7041}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "90 Binaerer Baum", "90 Binaerer Baum\90 Binaerer Baum.csproj", "{4039D83A-6F71-4EF8-98BA-AB706A38B412}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "71 Delegates", "71 Delegates\71 Delegates.csproj", "{31A94550-61B7-432E-A95D-FB29277DF393}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "71 Delegates, Verkettete Datenstrukturen und Delegates", "71 Delegates\71 Delegates, Verkettete Datenstrukturen und Delegates.csproj", "{31A94550-61B7-432E-A95D-FB29277DF393}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26 Verkettete Liste", "25 Verkettete Liste\26 Verkettete Liste.csproj", "{73A28F40-0148-48EB-AFB5-4FDB6CE020E3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26 Verkettete Liste, Stack_Generics", "25 Verkettete Liste\26 Verkettete Liste, Stack_Generics.csproj", "{73A28F40-0148-48EB-AFB5-4FDB6CE020E3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
